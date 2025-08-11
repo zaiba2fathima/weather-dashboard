@@ -234,6 +234,18 @@ For support and questions:
 - Check the documentation
 - Review the code comments
 
+# Weather Dashboard
+
+A simple web app that displays temperature, humidity, wind speed, and weather conditions for any city.
+
+## Screenshots
+
+### Desktop View
+![Desktop Screenshot](screenshot-desktop.PNG)
+
+### Mobile View
+![Mobile Screenshot](screenshot-mobile.PNG)
+
 ---
 
 **Built with ❤️ using Flask and modern web technologies**
